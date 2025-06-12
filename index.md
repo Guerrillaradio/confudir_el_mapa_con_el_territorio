@@ -7,3 +7,7 @@
 <p>Trato de buscar motivos
 <p>Que me respondan por qué estamos vivos
 <p>Y después de muchas noches sin dormir he comprendido que</p></a>
+
+<p>
+<p>
+<a href="https://guerrillaradio.github.io/poner_en_tela_el_estatuto_ontologico_de_la_realidad/"><div><font color="#fff300">铀</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
