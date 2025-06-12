@@ -1,5 +1,5 @@
             
-<p>confundir el mapa con el territorio\
+<p>confundir el mapa con el territorio<br\>
 <p>
 <p>
             
