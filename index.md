@@ -6,5 +6,4 @@
 <p>Trato de buscar motivos
 <p>Que me respondan por qué estamos vivos
 <p>Y después de muchas noches sin dormir he comprendido que</p>            
-<a href="https://www.youtube.com/watch?v=D-mXjcNkbsc&list=RDFcBl--aRekw&index=2"><div><font color="#fff300">Kase O - Outro (el circulo)</font></div><div></div><div><font color="#fff300"> </font><font color="#fff300"> </font></div>
 </a>
